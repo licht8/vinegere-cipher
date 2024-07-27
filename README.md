@@ -33,8 +33,10 @@ The program takes three command-line arguments:
 
 For example, to encrypt a file, use:
 
-```sh ./Vigenere_Ciph -e input.txt output.txt```
+```sh
+./Vigenere_Ciph -e input.txt output.txt```
 To decrypt a file, use:
 
-```sh ./Vigenere_Ciph -d input.txt output.txt```
+```sh
+./Vigenere_Ciph -d input.txt output.txt```
 Make sure you have a key.txt file in the same directory with the key for the cipher.
