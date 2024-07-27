@@ -24,7 +24,7 @@ make
 ```
 This will compile the program and produce an executable named Vigenere_Ciph.
 
-## Running the programm
+## Running the program
 The program takes three command-line arguments:
 
 - Mode (-e for encrypt or -d for decrypt)
