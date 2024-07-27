@@ -30,3 +30,11 @@ The program takes three command-line arguments:
 - Mode (-e for encrypt or -d for decrypt)
 - Input file (the file to be processed)
 - Output file (the file to write the result)
+
+For example, to encrypt a file, use:
+
+```sh ./Vigenere_Ciph -e input.txt output.txt```
+To decrypt a file, use:
+
+```sh ./Vigenere_Ciph -d input.txt output.txt```
+Make sure you have a key.txt file in the same directory with the key for the cipher.
