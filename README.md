@@ -21,3 +21,12 @@ To build the project, run:
 
 ```sh
 make
+```
+This will compile the program and produce an executable named Vigenere_Ciph.
+
+## Running the programm
+The program takes three command-line arguments:
+
+- Mode (-e for encrypt or -d for decrypt)
+- Input file (the file to be processed)
+- Output file (the file to write the result)
