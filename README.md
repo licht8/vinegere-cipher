@@ -17,7 +17,7 @@ This repository contains a C program that implements the Vigenère cipher for en
 
 ## Building the Project
 
-To build the project, run:
+To build the project using GCC Compiler, run:
 
 ```sh
 make
